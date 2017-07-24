@@ -2,7 +2,7 @@
 Instructions for the application within this project are documented at:
 
 - [Springboot Project](https://github.com/spring-guides/gs-spring-boot) - codebase comes from the barebones spring-boot sample.
-- [Extending springboot to apply Akka] (Springboot Meets Akka)(http://kimrudolph.de/blog/spring-boot-meets-akka)
+- [Extending springboot to apply Akka](http://kimrudolph.de/blog/spring-boot-meets-akka)
 
 ## Environment
 
