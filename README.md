@@ -8,9 +8,10 @@ Instructions for the application within this project are documented at:
 
 The following instructions are the steps to get this project linked to aws:
 
-###[AWS Github Tutorial](http://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-github.html)
+### [AWS Github Tutorial](http://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-github.html)
 
 These are the major steps :
+
 [Prerequisites - In progress](http://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-github-prerequisites.html)()
 [Step 1: Set Up a GitHub Account - Done](http://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-github-create-github-account.html)
 [Step 2: Create a GitHub Repository - Done](http://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-github.html)
@@ -20,5 +21,4 @@ These are the major steps :
 [Step 6: Deploy the Application to the Instance]()
 [Step 7: Monitor and Verify the Deployment]()
 [Step 8: Clean Up]()
-
 
