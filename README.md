@@ -1,12 +1,23 @@
-## Application
-Instructions for the application within this project are documented at:
+## Initial Setup
 
-- [Springboot Project](https://github.com/spring-guides/gs-spring-boot) - codebase comes from the barebones spring-boot sample.
-- [Extending springboot to apply Akka](http://kimrudolph.de/blog/spring-boot-meets-akka)
+### Base Project 
 
-## Environment
+The Spring boot codebase comes from the barebones spring-boot sample downloaded from the [Spring Github Repo](https://github.com/spring-guides/gs-spring-boot). This contains the Main controller mapped to ["/"]().
 
-The following instructions are the steps to get this project linked to aws:
+### Deployed
+
+Project is deployed into Amazon Web Services. It may still be running at the following [on my AWS Account](). The site is not up for long since I am using a free account.
+
+## Extensions
+
+### 1. Akka
+
+Added Akka code executed from the following [instructional site]([Extending springboot to apply Akka](http://kimrudolph.de/blog/spring-boot-meets-akka). This contains the tensorflow controller that is mapped to ["/"]().
+
+
+## Integration
+
+The following instructions are the steps to get this github project integrated to aws:
 
 ### [AWS Github Tutorial](http://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-github.html)
 
